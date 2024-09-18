@@ -2,9 +2,9 @@ let url = "https://66e7e69bb17821a9d9da6eb2.mockapi.io/login"
 
 let first_name = document.getElementById("firstname")
 let username_input=document.getElementById("username-input")
-let Input_Email1 = document.getElementById("InputEmail1")
+let Input_Email1 = document.getElementById("email")
 let pass = document.getElementById("input-password")
-let form_id = document.getElementById("form-id")
+let form_id = document.getElementById("form_id")
 
 
 

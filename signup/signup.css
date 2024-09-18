@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/JavaScript-Exam-/login/imagelogin/تصميم\ بدون\ عنوان\(4\).svg);
+
+background-repeat: no-repeat;
+background-size: cover;
+position: relative; /* usually the parent, in this case the body element, has position relative so that the absolute positioned child is positioned relative to it */
+height: 100vh; /* 100% of the viewport height */
+margin: 0;
+
+}
